@@ -18,6 +18,8 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 About Me
 
 - 🔭 I'm currently working on **devops_github**
@@ -27,6 +29,8 @@
 - 📫 How to reach me: **vikashegde213@gmail.com**
 - ⚡ Fun fact: **I write code that even my computer laughs at. If bugs were currency, I'd be a billionaire!**
 - 🏄‍♂️ **Now:** Building cool stuff, breaking things, and fixing them again!
+
+</div>
 
 ## 🖼️ Banner
 
