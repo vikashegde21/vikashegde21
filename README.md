@@ -1,12 +1,12 @@
 # Hi there, I'm Vikas Hegde 👋
 
 <div align="center">
-  <img src="assets/header.png" alt="Header Banner" />
+  <img src="assets/header.png" alt="Header Banner" style="max-width: 100%; height: auto;" />
 </div>
 
-<div align="center">
-  <img src="assets/coding.png" alt="Coding" width="300" />
-  <img src="assets/wave.png" alt="Wave" width="100" />
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; margin-top: 16px;">
+  <img src="assets/coding.png" alt="Coding" width="320" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
+  <img src="assets/wave.png" alt="Wave" width="120" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
 </div>
 
 <div align="center">
