@@ -8,19 +8,19 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashegde21/)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](I don't have)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://github.com/vikashegde21/AI-Agent-Docker.git)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vikashegde213@gmail.com)
   
 </div>
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **[Current Project Name]**
+- 🔭 I'm currently working on **devops_github**
 - 🌱 I'm currently learning **golang**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, AWS, docker , kubernetes**
 - 📫 How to reach me: **vikashegde213@gmail.com**
-- ⚡ Fun fact: **[Something interesting about you]**
+- ⚡ Fun fact: **I write code that even my computer laughs at. If bugs were currency, I'd be a billionaire!**
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%3338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -59,11 +59,11 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vikashegde21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikashegde21&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikashegde21&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vikashegde21&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
   
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vikashegde21&theme=tokyo-night" alt="Activity Graph" />
   
 </div>
 
@@ -87,8 +87,8 @@
 
 <div align="center">
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight)](https://github.com/yourusername/project1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight)](https://github.com/yourusername/project2)
+[![devops_github](https://github-readme-stats.vercel.app/api/pin/?username=vikashegde21&repo=devops_github&theme=tokyonight)](https://github.com/vikashegde21/devops_github)
+[![AI-Agent-Docker](https://github-readme-stats.vercel.app/api/pin/?username=vikashegde21&repo=AI-Agent-Docker&theme=tokyonight)](https://github.com/vikashegde21/AI-Agent-Docker)
 
 </div>
 
@@ -96,7 +96,7 @@
 
 <div align="center">
   
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vikashegde21/vikashegde21/output/snake.svg" alt="Snake animation" />
   
 </div>
 
@@ -104,9 +104,10 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
-  [![GitHub followers](https://img.shields.io/github/followers/yourusername.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/yourusername?tab=followers)
+  ![Profile Views](https://komarev.com/ghpvc/?username=vikashegde21&label=Profile%20views&color=0e75b6&style=flat)
+  [![GitHub followers](https://img.shields.io/github/followers/vikashegde21.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/vikashegde21?tab=followers)
   
   **"Code is like humor. When you have to explain it, it's bad." – Cory House**
   
+  _More updates coming soon!_
 </div>
