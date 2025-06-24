@@ -1,13 +1,10 @@
 # Hi there, I'm Vikas Hegde 👋
 
 <div align="center">
-  <img src="assets/header.png" alt="Header Banner" style="max-width: 100%; height: auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Devops+Engineer;Cloud+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; margin-top: 16px;">
-  <img src="assets/coding.png" alt="Coding" width="320" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-  <img src="assets/wave.png" alt="Wave" width="120" style="border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);" />
-</div>
+<div align="center">
 
 <div align="center">
   
@@ -34,7 +31,7 @@
 ## 🖼️ Banner
 
 <div align="center">
-  <img src="assets/header.gif" alt="Banner" />
+  <img src="assets/header.png" alt="Banner" />
 </div>
 
 ## 🛠️ Tech Stack
