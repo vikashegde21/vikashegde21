@@ -33,7 +33,6 @@
 </div>
 
 
-## 🖼️ Banner
 <div align="center">
   <img src="assets/header.png" alt="Banner" />
 </div>
