@@ -1,7 +1,7 @@
 # Hi there, I'm Vikas Hegde 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Devops+Engineer;Cloud+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=2196F3&center=true&vCenter=true&width=600&lines=Devops+Engineer;Cloud+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -31,6 +31,7 @@
 - 🏄‍♂️ **Now:** Building cool stuff, breaking things, and fixing them again!
 
 </div>
+
 
 ## 🖼️ Banner
 <div align="center">
