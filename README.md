@@ -1,7 +1,12 @@
 # Hi there, I'm Vikas Hegde 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Devops+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="assets/header.png" alt="Header Banner" />
+</div>
+
+<div align="center">
+  <img src="assets/coding.png" alt="Coding" width="300" />
+  <img src="assets/wave.png" alt="Wave" width="100" />
 </div>
 
 <div align="center">
