@@ -26,7 +26,7 @@
 - 🌱 I'm currently learning **golang**
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, AWS, docker , kubernetes**
-- 📫 How to reach me: **vikashegde213@gmail.com**
+- 📫 How to reach me: **vikashegde214@gmail.com**
 - ⚡ Fun fact: **I write code that even my computer laughs at. If bugs were currency, I'd be a billionaire!**
 - 🏄‍♂️ **Now:** Building cool stuff, breaking things, and fixing them again!
 
